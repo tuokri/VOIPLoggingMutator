@@ -5,5 +5,5 @@ Adds log entries to server log when players start and stop broadcasting in voice
 Add to server startup line to enable: `?mutator=VOIPLoggingMutator.VOIPLoggingMutator`
 
 Example log entries:
-![example log entries](example.png)
+![example log entries](./example.png)
 
